@@ -1,4 +1,4 @@
-# Robot Navigation using SLAM in ROS
+# Robot Mapping using SLAM in ROS
 
 --- 
 
